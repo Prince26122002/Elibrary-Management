@@ -1,0 +1,8 @@
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\bin\Elibrary Management.dll
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\bin\Elibrary Management.pdb
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\bin\Elibrary Management.xml
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\obj\Debug\Elibrary_Management.Resources.resources
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\obj\Debug\Elibrary Management.vbproj.GenerateResource.Cache
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\obj\Debug\Elibrary Management.dll
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\obj\Debug\Elibrary Management.xml
+c:\users\gaura\onedrive\documents\visual studio 2010\Projects\Elibrary Management\Elibrary Management\obj\Debug\Elibrary Management.pdb
